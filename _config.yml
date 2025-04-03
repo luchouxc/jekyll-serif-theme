@@ -7,8 +7,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/saturno_logo.png"
-  desktop_height: "100%"
-  desktop_width: "100%"
+  desktop_height: "27px"
+  desktop_width: "120px"
 
 home: 
   limit_services: 6
