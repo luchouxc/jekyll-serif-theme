@@ -17,8 +17,10 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Exo2-VariableFont_wght", -apple-system;
+
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+$font-family-base: 'Open Sans', sans-serif, -apple-system;
+$font-family-heading: 'Open Sans', sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
