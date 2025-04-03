@@ -6,9 +6,9 @@ logo:
   mobile: "images/logo/saturno_logo1.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/saturno_logo1.png"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/saturno_logo.png"
+  desktop_height: "100%"
+  desktop_width: "100%"
 
 home: 
   limit_services: 6
