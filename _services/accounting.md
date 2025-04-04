@@ -1,20 +1,13 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: "Digital Strategy"
+date: 2025-04-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+For  companies looking to boost (or launch) Digital Strategy projects.
+We also have become a key advisors in the measurement and monitoring of their investment translated into results Data-driven strategy, Design Thinking methodology and Strategic planning allow us to deliver measurable results! Your company will meet business goals with the help of our strategists, designers and content creators with high level skills.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Objectives
-
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+![Digital Strategy](https://images.unsplash.com/photo-1553877522-43269d4ea984)
 
 ## Relevance
 
